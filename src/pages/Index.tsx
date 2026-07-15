@@ -260,7 +260,7 @@ function PackageCard({ title, description, scripture, scriptureRef, includes, na
 function PackagesSection() {
   const packages: PackageCardProps[] = [
     {
-      title: "Gaining Clarity and Confidence for Your Purpose",
+      title: "Clarity: 6 Sessions",
       description: "This package is designed to help you move from uncertainty to clarity. We'll begin with an initial assessment to understand where you are, then work together to set meaningful goals and build personalized action steps you can put into practice right away.",
       scripture: "\"For I know the plans I have for you,\" declares the Lord, \"plans to prosper you and not to harm you, plans to give you hope and a future.\"",
       scriptureRef: "— Jeremiah 29:11",
