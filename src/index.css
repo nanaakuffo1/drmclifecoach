@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Nunito+Sans:ital,opsz,wght@0,6..12,300;0,6..12,400;0,6..12,500;0,6..12,600;0,6..12,700;1,6..12,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 185 61% 15%;
+
+    --card: 37 56% 87%;
+    --card-foreground: 185 61% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 185 61% 15%;
+
+    --primary: 185 61% 15%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 37 56% 87%;
+    --secondary-foreground: 185 61% 15%;
+
+    --muted: 37 40% 92%;
+    --muted-foreground: 185 30% 35%;
+
+    --accent: 38 86% 38%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 37 30% 80%;
+    --input: 37 30% 80%;
+    --ring: 185 61% 15%;
+
+    --radius: 0.75rem;
+
+    --sidebar-background: 37 56% 87%;
+    --sidebar-foreground: 185 61% 15%;
+    --sidebar-primary: 185 61% 15%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 37 40% 92%;
+    --sidebar-accent-foreground: 185 61% 15%;
+    --sidebar-border: 37 30% 80%;
+    --sidebar-ring: 185 61% 15%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Libre Baskerville', serif;
+    line-height: 1.3;
+  }
+
+  h1 {
+    @apply text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight;
+  }
+
+  h2 {
+    @apply text-2xl md:text-3xl font-bold;
+  }
+
+  h3 {
+    @apply text-xl md:text-2xl font-bold;
+  }
+}

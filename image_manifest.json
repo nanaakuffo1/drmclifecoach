@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "results": [
+    {
+      "status": "success",
+      "filename": "hero-banner-peaceful-path.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1347093/2026-07-14/spfnvlicaiyq/hero-banner-peaceful-path.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1347093/2026-07-14/spfnvlicaiyq/hero-banner-peaceful-path.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1347093/2026-07-14/spfnvlicaiyq/hero-banner-peaceful-path.png"
+    },
+    {
+      "status": "success",
+      "filename": "scripture-bg-watercolor-sage.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1347093/2026-07-14/spfnwgicaizq/scripture-bg-watercolor-sage.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1347093/2026-07-14/spfnwgicaizq/scripture-bg-watercolor-sage.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1347093/2026-07-14/spfnwgicaizq/scripture-bg-watercolor-sage.png"
+    },
+    {
+      "status": "success",
+      "filename": "cta-bg-sunrise-water.jpg",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1347093/2026-07-14/spfnwtacai2q/cta-bg-sunrise-water.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1347093/2026-07-14/spfnwtacai2q/cta-bg-sunrise-water.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1347093/2026-07-14/spfnwtacai2q/cta-bg-sunrise-water.png"
+    },
+    {
+      "status": "success",
+      "filename": "decorative-botanical-element.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/1347093/2026-07-14/spfnxaacai2a/decorative-botanical-element.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/1347093/2026-07-14/spfnxaacai2a/decorative-botanical-element.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/1347093/2026-07-14/spfnxaacai2a/decorative-botanical-element.png"
+    }
+  ],
+  "success_count": 4,
+  "failed_count": 0,
+  "running_count": 0,
+  "message": "Generated 4/4 images total"
+}
