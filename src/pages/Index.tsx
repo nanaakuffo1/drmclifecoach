@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { Heart, ArrowRight, Sparkles } from 'lucide-react';
+import { Heart, ArrowRight, Sparkles, Globe } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
 
@@ -137,6 +137,10 @@ function HeroSection() {
             Book Your Free Discovery Call
             <ArrowRight className="ml-2 h-5 w-5" />
           </Button>
+          <p className="mt-4 flex items-center justify-center gap-2 text-sm md:text-base text-[#0E3B3F]/70">
+            <Globe className="h-4 w-4 text-[#B8860B]" />
+            Sessions held virtually — serving clients worldwide
+          </p>
         </div>
       </div>
     </section>
@@ -197,6 +201,10 @@ function AboutSection() {
               </blockquote>
               <p>
                 Dr. Cyprian's mission is simple: to help every woman she works with leave feeling hopeful, empowered, and confident that her best days are still ahead.
+              </p>
+              <p className="flex items-center justify-center md:justify-start gap-2 text-base font-semibold text-[#0E3B3F]">
+                <Globe className="h-5 w-5 text-[#B8860B]" />
+                Coaching sessions are held virtually, so Dr. Cyprian works with women wherever they are in the world.
               </p>
             </div>
           </div>
