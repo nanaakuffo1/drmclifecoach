@@ -169,8 +169,8 @@ function AboutSection() {
   return (
     <section className="py-20 bg-white">
       <div className="max-w-5xl mx-auto px-6">
-        <div className="flex flex-col md:flex-row items-center gap-12">
-          <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden shadow-xl border-4 border-[#F3E6C9] flex-shrink-0">
+        <div className="flex flex-col md:flex-row items-start gap-12">
+          <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden shadow-xl border-4 border-[#F3E6C9] flex-shrink-0 mx-auto md:mx-0">
             <img
               src="/assets/profile-picture.png"
               alt="Dr. Margaret Cyprian - Life Coach"
@@ -179,9 +179,26 @@ function AboutSection() {
           </div>
           <div className="text-center md:text-left">
             <h2 className="text-[#0E3B3F] mb-6">About Your Coach</h2>
-            <p className="text-[#0E3B3F]/70 text-lg leading-relaxed">
-              With a heart for helping others navigate life's most meaningful transitions, Dr. Margaret Cyprian brings warmth, wisdom, and faith-centered guidance to every coaching relationship. Her approach honors where you are while gently guiding you toward where you're meant to be.
-            </p>
+            <div className="text-[#0E3B3F]/70 text-lg leading-relaxed space-y-5">
+              <p>
+                Dr. Margaret Cyprian is the founder of DrMC Spirit-Led Life Coaching, where she walks alongside women navigating life's most significant transitions — motherhood, career change, identity shifts, empty nesting, and seasons of personal growth.
+              </p>
+              <p>
+                Her own journey has been shaped by transition. Born and raised in Ghana, she pursued higher education in Europe, where she became a mother at 22 while completing her degree far from home. She went on to earn her Master's in Economics and build a successful banking career across Ghana and the United States, later relocating to the U.S. as a single mother of two to build a new life for her family. In God's timing, she experienced deep restoration — reuniting with her partner and entering a marriage now in its twelfth year, and today delighting in her role as grandmother.
+              </p>
+              <p>
+                Each season taught her something about resilience, surrender, and faith as a foundation — leading her to pursue professional coaching and earn a Doctorate in Theology from Family Bible College in Houston, Texas. Her coaching is rooted in her Christian faith and Catholic values, and she warmly welcomes women of all backgrounds seeking clarity, peace, and purpose.
+              </p>
+              <p>
+                Her guiding Scripture, and the heart of her coaching philosophy, is Proverbs 3:5–6:
+              </p>
+              <blockquote className="italic border-l-2 border-[#B8860B] pl-4">
+                "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to Him, and He will make your paths straight."
+              </blockquote>
+              <p>
+                Dr. Cyprian's mission is simple: to help every woman she works with leave feeling hopeful, empowered, and confident that her best days are still ahead.
+              </p>
+            </div>
           </div>
         </div>
       </div>
