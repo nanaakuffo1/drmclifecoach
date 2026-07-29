@@ -160,7 +160,7 @@ function ScriptureSection() {
         <blockquote className="text-2xl md:text-3xl font-heading italic text-[#0E3B3F] leading-relaxed">
           "Be transformed by the renewing of your mind…"
         </blockquote>
-        <p className="mt-4 text-lg font-semibold text-[#0E3B3F]">— Romans 12:2</p>
+        <p className="mt-4 text-lg font-semibold text-[#0E3B3F]">Romans 12:2</p>
         <p className="mt-6 text-[#0E3B3F]/70 text-base md:text-lg max-w-2xl mx-auto">
           Since our coaching is faith-informed, this verse beautifully captures the heart of transformation.
         </p>
