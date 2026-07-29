@@ -185,13 +185,13 @@ function AboutSection() {
             <h2 className="text-[#0E3B3F] mb-6">About Your Coach</h2>
             <div className="text-[#0E3B3F]/70 text-lg leading-relaxed space-y-5">
               <p>
-                Dr. M. Cyprian is the founder of DrMC Spirit-Led Life Coaching, based in the Dallas–Fort Worth, Texas area, where she walks alongside women navigating life's most significant transitions — motherhood, career change, identity shifts, empty nesting, and seasons of personal growth.
+                Dr. Margaret Cyprian is the founder of DrMC Spirit-Led Life Coaching, based in the Dallas–Fort Worth, area in Texas. She walks alongside women navigating life's most significant transitions, including motherhood, career change, identity shifts, empty nesting, and seasons of personal growth.
               </p>
               <p>
-                Her own journey has been shaped by transition. Born and raised in Ghana, she pursued higher education in Europe, where she became a mother at 22 while completing her degree far from home. She went on to earn her Master's in Economics and built a successful banking career across Ghana and the United States, later relocating to the U.S. as a single mother of two to build a new life for her family. In God's timing, she experienced deep restoration — reuniting with her partner and entering a marriage now in its twelfth year, and today delighting in her role as grandmother.
+                Her own journey has been shaped by transitions. Born and raised in Ghana, she pursued higher education in Europe, where she became a mother at 22 while completing her degree far from home. She went on to earn her Master's in Economics there and built a successful banking career across Ghana and the United States, later relocating to the U.S. as a single mother of two to build a new life for her family. In God's timing, she experienced deep restoration, reuniting with her partner and entering a marriage now in its twelfth year, and today delighting in her role as a grandmother.
               </p>
               <p>
-                Each season taught her something about resilience, surrender, and faith as a foundation — leading her to pursue professional coaching and earn a Doctorate in Theology from Family Bible College in Houston, Texas. She is also a Certified Christian Life Coach through the Called Coach Institute, based in Dallas. Her coaching is rooted in her Christian faith and Catholic values, and she warmly welcomes women of all backgrounds seeking clarity, peace, and purpose.
+                Each season taught her something about resilience, surrender, and faith as a foundation, leading her to pursue a Doctorate degree in Theology from the Family Life Bible Institute in Houston, Texas. She also pursued professional coaching at the Called Coach Institute based in Dallas, and is ICF certified Christian life coach. Her coaching is rooted in her Christian faith and values, and she warmly welcomes women of all backgrounds seeking clarity, peace, and purpose.
               </p>
               <p>
                 Her guiding Scripture, and the heart of her coaching philosophy, is Proverbs 3:5–6:
@@ -203,11 +203,11 @@ function AboutSection() {
                 <strong>Mission:</strong> To help every woman she works with leave feeling hopeful, empowered, and confident that her best days are still ahead.
               </p>
               <p className="italic text-base">
-                — Dr. M. Cyprian
+                Dr. Margaret Cyprian, ThD
               </p>
               <p className="flex items-center justify-center md:justify-start gap-2 text-base font-semibold text-[#0E3B3F]">
                 <Globe className="h-5 w-5 text-[#B8860B]" />
-                Coaching sessions are held virtually, so Dr. M. Cyprian works with women wherever they are in the world.
+                Coaching sessions are held virtually, so Dr. Margaret works with women wherever they are in the world.
               </p>
             </div>
           </div>
